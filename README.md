@@ -11,9 +11,10 @@ W Steenekamp
 
 The repository includes the following files:
 =========================================
--  CopdeBook
+-  CodeBook
 -  run_analysis.R
 -  summaryset.txt 
+
 ==========================================
 'run_analysis.R: The R script for the assignment.
 =================================================
